@@ -1,6 +1,6 @@
 # DiscordRequestApi
 
-Use Discords request api to send messages through cli
+Use Discords request api to send messages through cli. (No need to open discord 😎,Just run the script)
 
 # Requirements
 
