@@ -1,6 +1,6 @@
 # DiscordRequestApi
 
-Dm Someone or message in a specific channel without using discordby the help of python's request librabry. (No need to open discord 😎,Just run the script)
+Dm Someone or message in a specific channel without using discord by the help of python's request librabry. (No need to open discord 😎,Just run the script)
 
 # Requirements
 
