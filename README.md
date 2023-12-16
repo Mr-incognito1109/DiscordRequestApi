@@ -11,9 +11,11 @@ Install request module
 pip install request
 ```
 
-Get your discord token.
+- Get your discord token.
 
-Paste it into the code.
+- Get your channel id where you want to send messages.
+
+- Paste it into the code.
 
 change the message accordingly. (You can apply different logic as well)
 
