@@ -14,3 +14,5 @@ for i in range(1):
         response = requests.post("https://discord.com/api/v9/channels/channel_id/messages", data=payload , headers={"authorization": "discord_token"})  # replace your channel_id and discord_token here
         time.sleep(5)
 print("Exit")
+
+# make changes accordingly 
